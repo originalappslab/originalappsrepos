@@ -1,7 +1,7 @@
 {
   "reduplicationDenotation": "2.0",
-  "reduplicationNorm": "2",
-  "valuation": "2",
+  "reduplicationNorm": "0",
+  "valuation": "0",
   "address": "https://raw.githubusercontent.com/msay2/Simple-AppUpdaterJSON-/master/app.apk",
   "unleash": [
     "- Améliorations apportées",
